@@ -1,1 +1,2 @@
-<div style="width:100%;height:0;padding-bottom:72%;position:relative;"><iframe src="https://giphy.com/embed/h6sAjdYaSNHwUEaJ2l" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/education-sweden-edtech-h6sAjdYaSNHwUEaJ2l">via GIPHY</a></p>
+
+<p align="center"><img src="https://giphy.com/gifs/education-sweden-edtech-h6sAjdYaSNHwUEaJ2l" /></p>
