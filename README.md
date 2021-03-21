@@ -1,2 +1,2 @@
 
-<p align="center"><img src="https://giphy.com/gifs/education-sweden-edtech-h6sAjdYaSNHwUEaJ2l" /></p>
+<p align="center"><img src="https://media.giphy.com/media/h6sAjdYaSNHwUEaJ2l/giphy.gif" /></p>
